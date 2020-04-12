@@ -1,2 +1,2 @@
 six
-git+git://github.com/manrajsingh/social-core@master#egg=social-auth-core
+-e git+git://github.com/manrajsingh/social-core@master#egg=social-auth-core
